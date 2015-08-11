@@ -1,0 +1,3 @@
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/searchable_label"
+    android:hint="@string/searchable_hint"/><!-- From: file:/Users/darpansolanki/Downloads/Learn%20Android%20Lollipop%20Development.%20Create%20Java%20Android%20Apps/Learn%20Android%20Lollipop%20Development/Learn%20Android%20Lollipop%20Development/Project%20Files/FlickrBrowser%20/app/src/main/res/xml/searchable.xml -->
